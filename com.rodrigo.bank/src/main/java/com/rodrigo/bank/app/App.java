@@ -15,6 +15,8 @@ public class App {
 			System.err.println("oops");
 		}finally {
 			System.out.println("end");
+			System.out.println("end");
+			System.out.println("end again");
 		}
 	}
 
