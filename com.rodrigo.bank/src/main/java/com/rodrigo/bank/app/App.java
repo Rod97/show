@@ -16,6 +16,7 @@ public class App {
 		}finally {
 			System.out.println("end");
 			System.out.println("end");
+			System.out.println("end again");
 		}
 	}
 
